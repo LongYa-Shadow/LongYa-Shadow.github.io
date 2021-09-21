@@ -1,6 +1,8 @@
 ---
-title: Markd学习
-data: "2021
+title: 'markd学习'
+data:  '2021-8-1 00:14:06'
+description: 'markdown基础使用标签'
+cover: https://i.loli.net/2020/05/01/gkihqEjXxJ5UZ1C.jpg
 ---
 
 
