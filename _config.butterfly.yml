@@ -41,8 +41,7 @@ copy:
 #   icon: link || the description
 social:
   fab fa-github: https://github.com/LongYa-Shadow || Github
-  fas fa-envelope: mailto:isxiaopeng@gmail.com || Email
-
+  fas fa-envelope: https://mail.google.com/mail/u/0/#inbox || Email
 
 # search (搜索)
 # --------------------------------------
@@ -79,28 +78,28 @@ katex:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: /img/favicon.png
+favicon: https://i.loli.net/2021/09/22/jX7tSVOi6dvrLFY.png
 
 # Avatar (頭像)
 avatar:
-  img: https://i.loli.net/2021/02/24/5O1day2nriDzjSu.png
+  img: https://avatars.githubusercontent.com/u/75898586?v=4
   effect: false
 
 # Disable all banner image
 disable_top_img: false
 
 # The banner image of home page
-index_img: https://gaopeng623.top/assets/images/wallPaper.jpg
+index_img: https://cdn.jsdelivr.net/gh/jerryc127/butterfly_cdn@2.1.0/top_img/index.jpg
 
 # If the banner of page not setting, it will show the top_img
 default_top_img: 
 
 # The banner image of archive page
-archive_img:
+archive_img: https://sm.ms/image/MpdNyZ1DL9blxkW
 
 # If the banner of tag page not setting, it will show the top_img
 # note: tag page, not tags page (子標籤頁面的 top_img)
-tag_img:
+tag_img: https://sm.ms/image/hJI71fWiOQLbxzn
 
 # The banner image of tag page
 # format:
@@ -126,7 +125,7 @@ cover:
   position: both
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
-    - https://i.loli.net/2020/05/01/gkihqEjXxJ5UZ1C.jpg
+    - https://sm.ms/image/ied74Lgu5MZH21q
 
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
@@ -206,7 +205,7 @@ post_edit:
 # Related Articles
 related_post:
   enable: true
-  limit: 6 # Number of posts displayed
+  limit: 4 # Number of posts displayed
   date_type: created # or created or updated 文章日期顯示創建日或者更新日
 
 # figcaption (圖片描述文字)
@@ -409,7 +408,7 @@ footer:
   owner:
     enable: true
     since: 2020
-  custom_text:
+  custom_text: Hi, welcome to my <a href="https://longya-shadow.github.io/">blog</a>!
   copyright: true # Copyright of theme and framework
 
 # Analysis
@@ -505,7 +504,7 @@ tag_ui: # 留空或 index
 background:
 
 # Footer Background
-footer_bg: false
+footer_bg: true
 
 # the position of bottom right button/default unit: px (右下角按鈕距離底部的距離/默認單位為px)
 rightside-bottom:
@@ -528,7 +527,7 @@ canvas_ribbon:
 
 # Fluttering Ribbon (動態彩帶)
 canvas_fluttering_ribbon:
-  enable: false
+  enable: true
   mobile: false
 
 # canvas_nest

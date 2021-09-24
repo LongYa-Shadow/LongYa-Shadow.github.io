@@ -1,11 +1,18 @@
-- class_name: 友情鏈接
-  class_desc: 那些人，那些事
+- class_name: 友情链接
+  class_desc: 同学和朋友
   link_list:
-    - name: Hexo
-      link: https://hexo.io/zh-tw/
-      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
-      descr: 快速、簡單且強大的網誌框架
-
+    - name: 程序员学习-胡辉煜
+      link: https://huhuiyu.top
+      avatar: https://klcxy.top/oss-manage-service/ossinfo/queryOssUrl?tbOssInfo.oiid=95
+      descr: 我的老师
+    - name: LongYa_Shadow
+      link: https://gaopeng623.top
+      avatar: https://gaopeng623.top/assets/images/image.png
+      descr: 我自己的网站(测试)
+    - name: 光辉女郎
+      link: https://liuguanghui.top  
+      avatar: https://uploadfile.bizhizu.cn/2015/0906/20150906123634150.jpg
+      descr: 简介：光辉女郎(未上传)
 - class_name: 網站
   class_desc: 值得推薦的網站
   link_list:
@@ -21,5 +28,3 @@
       link: https://twitter.com/
       avatar: https://i.loli.net/2020/05/14/5VyHPQqR6LWF39a.png
       descr: 社交分享平台
-
-
