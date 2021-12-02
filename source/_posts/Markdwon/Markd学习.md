@@ -6,7 +6,7 @@ tags:
 - markdown
 - 参考笔记
 description: 'markdown基础使用标签'
-cover: https://i.loli.net/2020/05/01/gkihqEjXxJ5UZ1C.jpg
+cover: https://klcxy.top/oss-manage-service/ossinfo/queryOssUrl?tbOssInfo.oiid=295
 ---
 
 

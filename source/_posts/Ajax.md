@@ -6,7 +6,7 @@ tags:
 - AJAX
 - 前端
 description: 'AJAX简介、特点与优点、XML简介、http协议、响应报文、请求报文、GEI请求、POST请求、 原生AJAX使用方法、jQuery使用方法、原生Fetch使用方法、'
-cover: https://gaopeng623.top/assets/images/study.jpg
+cover: https://klcxy.top/oss-manage-service/ossinfo/queryOssUrl?tbOssInfo.oiid=295
 ---
 
 
