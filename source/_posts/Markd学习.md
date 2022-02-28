@@ -6,8 +6,8 @@ tags:
 - markdown
 - 参考笔记
 description: 'markdown基础使用标签'
-cover: https://klcxy.top/oss-manage-service/ossinfo/queryOssUrl?tbOssInfo.oiid=295
----
+cover: https://klcxy.top/oss-manage-service/ossinfo/queryOssUrl?tbOssInfo.oiid=386
+---****
 
 
 
@@ -84,9 +84,9 @@ cover: https://klcxy.top/oss-manage-service/ossinfo/queryOssUrl?tbOssInfo.oiid=2
 
 ## 表格
 
-|名字|性别|生日|
-|--|--|--|
-|张三|男|1997.1.1|
+| 名字 | 性别 | 生日     |
+| ---- | ---- | -------- |
+| 张三 | 男   | 1997.1.1 |
 
 ## 代码
 
