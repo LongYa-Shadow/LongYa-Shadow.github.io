@@ -51,6 +51,7 @@ search:
   content: true
   template: ./search.xml
 
+
 # Algolia search
 algolia_search:
   enable: false
