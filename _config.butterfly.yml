@@ -45,6 +45,11 @@ social:
 
 # search (搜索)
 # --------------------------------------
+search:
+  path: search.xml
+  field: post
+  content: true
+  template: ./search.xml
 
 # Algolia search
 algolia_search:
@@ -54,7 +59,7 @@ algolia_search:
 
 # Local search
 local_search:
-  enable: false
+  enable: true
 
 # Math (數學)
 # --------------------------------------
@@ -92,7 +97,7 @@ disable_top_img: false
 index_img: https://klcxy.top/oss-manage-service/ossinfo/queryOssUrl?tbOssInfo.oiid=384
 
 # If the banner of page not setting, it will show the top_img
-default_top_img:  https://klcxy.top/oss-manage-service/ossinfo/queryOssUrl?tbOssInfo.oiid=159
+default_top_img: https://klcxy.top/oss-manage-service/ossinfo/queryOssUrl?tbOssInfo.oiid=159
 
 # The banner image of archive page
 archive_img: https://klcxy.top/oss-manage-service/ossinfo/queryOssUrl?tbOssInfo.oiid=147
@@ -641,7 +646,7 @@ aside:
       enable: true
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/xxxxxx
+      link: https://github.com/LongYa-Shadow
   card_announcement:
     enable: true
     content: This is my Blog
